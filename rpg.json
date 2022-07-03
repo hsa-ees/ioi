@@ -1,0 +1,13 @@
+{
+    "name": "Island of Interest",
+    "short_name": "IoI",
+    "orientation": "landscape",
+    "description": "MMORPG Learn-Platform",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "information-logotype-in-a-circle.png",
+            "sizes": [96, 128, 192, 256]
+        }
+    ]
+}

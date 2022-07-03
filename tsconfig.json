@@ -1,0 +1,34 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators":true,
+      "target": "es6",
+      "module": "esnext",
+      "outDir": "dist",
+      "strict": true,
+      "sourceMap": true,
+      "strictNullChecks": true,
+      "strictPropertyInitialization": false,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "removeComments": false,
+      "noUnusedParameters": false,
+      "noUnusedLocals": false,
+      "noImplicitThis": false,
+      "noImplicitAny": false,
+      "noImplicitReturns": false,
+      "declaration": true,
+      "experimentalDecorators": true, 
+      "emitDecoratorMetadata": true,
+      "declarationMap": true,
+      "types": ["node", "jest"],
+      "resolveJsonModule": true,
+      "allowJs": true
+    },
+    "include": [
+        "src",
+        "index.d.ts",
+        "src/modules/types/*.js",
+        "tests", 
+        "node_modules/@rpgjs/compiler/types/*.d.ts"
+    ]
+ }

@@ -1,0 +1,47 @@
+{
+  "_from": "@rpgjs/chat@3.0.0-beta.8",
+  "_id": "@rpgjs/chat@3.0.0-beta.8",
+  "_inBundle": false,
+  "_integrity": "sha512-UCavwdOIKIgAByM/OQCxL7VNuLLeG3w6qw3omFBETgQhBunB2CnoTCrLyIasJhWfhLRC7tMYAnNIwoGIa41xkA==",
+  "_location": "/@rpgjs/chat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@rpgjs/chat@3.0.0-beta.8",
+    "name": "@rpgjs/chat",
+    "escapedName": "@rpgjs%2fchat",
+    "scope": "@rpgjs",
+    "rawSpec": "3.0.0-beta.8",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0-beta.8"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@rpgjs/chat/-/chat-3.0.0-beta.8.tgz",
+  "_shasum": "727fb83e804a3d9a3ce3bd982bc74e3a465ac744",
+  "_spec": "@rpgjs/chat@3.0.0-beta.8",
+  "_where": "C:\\Users\\kpzem\\ioi2\\island-of-interest",
+  "author": {
+    "name": "Samuel Ronce"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@rpgjs/client": "^3.0.0-beta.8",
+    "@rpgjs/server": "^3.0.0-beta.8"
+  },
+  "deprecated": false,
+  "description": "",
+  "gitHead": "ab845a7414ff25b0e756fe639b229d62f477bdf0",
+  "keywords": [],
+  "license": "MIT",
+  "main": "src/index.ts",
+  "name": "@rpgjs/chat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "version": "3.0.0-beta.8"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "island": "Informatik",
+    "children": [
+      {"text": "Informatik", "parent": "Informatik", "building": "Java", "expertSymbol": "J"},
+      {"text": "Informatik", "parent": "Informatik", "building": "Automaten", "expertSymbol": "A"},
+      {"text":"Informatik", "parent": "Informatik", "building":  "Datenbanken", "expertSymbol": "D"},
+      {"text":"Informatik", "parent": "Informatik", "building":  "Software Engineering", "expertSymbol": "S"}
+    ]
+  },
+  {
+    "island": "Mathe",
+    "children": [
+      {"text": "Mathe", "parent": "Mathe", "building": "Mathe", "expertSymbol": "M"},
+      {"text": "Mathe", "parent": "Mathe", "building": "Algebra", "expertSymbol": "A"},
+      {"text":"Mathe", "parent": "Mathe", "building":  "Geo", "expertSymbol": "G"}
+    ]
+  },
+  {
+    "island": "Deutsch",
+    "children": [
+      {"text": "Deutsch", "parent": "Deutsch", "building":  "Satzbau", "expertSymbol": "S"},
+      {"text": "Deutsch", "parent": "Deutsch", "building":  "Gedichtsanalyse", "expertSymbol": "G"},
+      {"text": "Deutsch", "parent": "Deutsch", "building":  "Diktat", "expertSymbol": "D"}
+    ]
+  },
+  {
+    "island": "Englisch",
+    "children": [
+      {"text":  "Englisch", "parent": "Englisch", "building": "Grammatik", "expertSymbol": "G"},
+      {"text":  "Englisch", "parent": "Englisch", "building": "Vokabeln", "expertSymbol": "V"}
+    ]
+  }
+]

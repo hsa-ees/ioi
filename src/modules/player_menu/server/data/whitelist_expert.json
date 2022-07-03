@@ -1,0 +1,25 @@
+[
+  {
+    "island": "Mathe",
+    "children": [
+      {"text": "Mathe", "parent": "Mathe", "building": "Mathe"},
+      {"text": "Mathe", "parent": "Mathe", "building": "Algebra"},
+      {"text":"Mathe", "parent": "Mathe", "building":  "Geo"}
+    ]
+  },
+  {
+    "island": "Deutsch",
+    "children": [
+      {"text": "Deutsch", "parent": "Deutsch", "building":  "Satzbau"},
+      {"text": "Deutsch", "parent": "Deutsch", "building":  "Gedichtsanalyse"},
+      {"text": "Deutsch", "parent": "Deutsch", "building":  "Diktat"}
+    ]
+  },
+  {
+    "island": "Englisch",
+    "children": [
+      {"text":  "Englisch", "parent": "Englisch", "building": "Grammatik"},
+      {"text":  "Englisch", "parent": "Englisch", "building": "Vokabeln"}
+    ]
+  }
+]
